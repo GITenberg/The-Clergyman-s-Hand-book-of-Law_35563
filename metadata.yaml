@@ -1,0 +1,30 @@
+_repo: The-Clergyman-s-Hand-book-of-Law_35563
+_version: 0.1.0
+alternative_title: 'The Clergyman''s Handbook of Law: The Law of Church and Grave'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scanlan, Charles Martin
+    alias: Scanlan, Charles M.
+    birthdate: 1854
+    deathdate: 1940
+    gutenberg_agent_id: '37751'
+    url: http://www.gutenberg.org/2009/agents/37751
+description: ''
+gutenberg_issued: '2011-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35563'
+  lccn: 09009969
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KF'
+- !lcsh 'Burial laws -- United States'
+- !lcsh 'Ecclesiastical law -- United States'
+title: 'The Clergyman''s Hand-book of Law: The Law of Church and Grave'
+url: http://www.gutenberg.org/ebooks/35563
